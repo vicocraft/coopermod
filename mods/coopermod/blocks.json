@@ -1,0 +1,17 @@
+{
+  "blocks": [
+    {
+      "type": "block:simple",
+      "entries": [
+        {
+          "id": "cooper_ore",
+          "creativeTab": "block",
+          "material": "stone",
+          "itemModel": "cooperore:cooper_ore",
+          "hardness": 1.5,
+          "drop": "cooperore:cooper_ore"
+        }
+      ]
+    }
+  ]
+}
