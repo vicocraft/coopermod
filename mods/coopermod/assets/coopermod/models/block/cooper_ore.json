@@ -1,7 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "coopermod:blocks/cooper_ore"
+        "0": "coopermod:blocks/cooper_ore",
+		"particle": "coopermod:blocks/cooper_ore"
     },
     "elements": [
         {
