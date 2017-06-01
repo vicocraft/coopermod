@@ -5,11 +5,14 @@
       "entries": [
         {
           "id": "cooper_ore",
-          "creativeTab": "block",
-          "material": "stone",
-          "itemModel": "cooperore:cooper_ore",
+		  "material": "rock",
+		  "itemModel": "coopermod:cooper_ore",
+          "creativeTab": "buildingBlocks",
           "hardness": 1.5,
-          "drop": "cooperore:cooper_ore"
+		  "resistance" : 15,
+		  "soundType" : "stone",
+		  "expDrop" : [0, 1],
+          "drop": "coopermod:cooper_ore"
         }
       ]
     }

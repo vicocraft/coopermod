@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coopermod",
+  "name": "Cooper Mod",
+  "description": "Yet another Cooper mod",
+  "version": "1.0.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [""],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["customstuff4"]
+}
+]

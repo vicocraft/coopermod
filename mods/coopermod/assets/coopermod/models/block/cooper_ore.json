@@ -1,6 +1,6 @@
 {
-    "parent": "block/cube_all",
+    "parent": "block/block",
     "textures": {
-        "all": "blocks/cooper_ore"
+        "all": "coopermod:blocks/cooper_ore"
     }
 }

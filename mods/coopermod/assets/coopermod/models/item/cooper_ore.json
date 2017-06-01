@@ -1,3 +1,6 @@
 {
-    "parent": "block/cooper_ore"
+    "parent": "item/generated"
+    "textures": {
+        "all": "coopermod:blocks/cooper_ore"
+    }
 }
