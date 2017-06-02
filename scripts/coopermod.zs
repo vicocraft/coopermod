@@ -14,6 +14,6 @@ val copper_block = <ore:blockCopper>;
 copper_block.add(<coopermod:cooper_block>);
 
 // Recipes
-furnace.addRecipe(copper_ingot, copper_ore, 0.5);
+furnace.addRecipe(<coopermod:cooper_ingot>, copper_ore, 0.5);
 
-recipes.addShapeless(copper_block, [[copper_ingot, copper_ingot, copper_ingot],[copper_ingot, copper_ingot, copper_ingot],[copper_ingot, copper_ingot, copper_ingot]]);
+recipes.addShapeless(<coopermod:cooper_block>, [[copper_ingot, copper_ingot, copper_ingot],[copper_ingot, copper_ingot, copper_ingot],[copper_ingot, copper_ingot, copper_ingot]]);
