@@ -16,4 +16,4 @@ copper_block.add(<coopermod:cooper_block>);
 // Recipes
 furnace.addRecipe(<coopermod:cooper_ingot>, copper_ore, 0.5);
 
-recipes.addShapeless(<coopermod:cooper_block>, [[copper_ingot, copper_ingot, copper_ingot],[copper_ingot, copper_ingot, copper_ingot],[copper_ingot, copper_ingot, copper_ingot]]);
+recipes.addShaped(<coopermod:cooper_block>, [[copper_ingot, copper_ingot, copper_ingot], [copper_ingot, copper_ingot, copper_ingot], [copper_ingot, copper_ingot, copper_ingot]]);
