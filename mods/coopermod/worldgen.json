@@ -1,0 +1,19 @@
+{
+  "worldgen": [
+    {
+      "type": "worldGen:ore",
+      "entries": [
+        {
+          "block": "coopermod:cooper_ore",
+          "target": "minecraft:stone",
+          "count": 20,
+          "size": 8,
+          "minHeight": 32,
+          "maxHeight": 96,
+          "dimension": 0,
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
