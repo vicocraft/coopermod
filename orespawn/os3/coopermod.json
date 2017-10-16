@@ -1,0 +1,21 @@
+{
+  "version": "1.1",
+  "dimensions": [
+    {
+      "ores": [
+        {
+          "block": "coopermod:cooper_ore",
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 20.0,
+            "minHeight": 32,
+            "maxHeight": 96
+          },
+          "feature": "default",
+          "replace_block": "default"
+        }
+      ]
+    }
+  ]
+}
