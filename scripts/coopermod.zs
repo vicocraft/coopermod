@@ -12,7 +12,7 @@ val cooper_block = <coopermod:cooper_block>;
 val od_copper_ore = <ore:oreCopper>;
 od_copper_ore.add(cooper_ore);
 
-val od_od_copper_ingot = <ore:ingotCopper>;
+val od_copper_ingot = <ore:ingotCopper>;
 od_copper_ingot.add(cooper_ingot);
 
 val od_copper_block = <ore:blockCopper>;

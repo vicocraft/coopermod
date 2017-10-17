@@ -1,34 +1,29 @@
 {
-  "blocks": [
-    {
-      "type": "block:simple",
-      "entries": [
-        {
-          "id": "cooper_ore",
-		  "material": "rock",
-		  "itemModel": "coopermod:cooper_ore",
-          "creativeTab": "buildingBlocks",
-          "hardness": 1.5,
-		  "resistance" : 15,
-		  "soundType" : "stone",
-          "drop": "coopermod:cooper_ore"
-        }
-      ]
-    },
-    {
-      "type": "block:simple",
-      "entries": [
-        {
-          "id": "cooper_block",
-		  "material": "iron",
-		  "itemModel": "coopermod:cooper_block",
-          "creativeTab": "buildingBlocks",
-          "hardness": 1.5,
-		  "resistance" : 15,
-		  "soundType" : "metal",
-          "drop": "coopermod:cooper_block"
-        }
-      ]
-    }
-  ]
+	"blocks": [{
+			"type": "block:simple",
+			"entries": [{
+				"id": "cooper_ore",
+				"material": "rock",
+				"itemModel": "coopermod:cooper_ore",
+				"creativeTab": "buildingBlocks",
+				"hardness": 1.5,
+				"resistance": 15,
+				"soundType": "stone",
+				"drop": "coopermod:cooper_ore"
+			}]
+		},
+		{
+			"type": "block:simple",
+			"entries": [{
+				"id": "cooper_block",
+				"material": "iron",
+				"itemModel": "coopermod:cooper_block",
+				"creativeTab": "buildingBlocks",
+				"hardness": 1.5,
+				"resistance": 15,
+				"soundType": "metal",
+				"drop": "coopermod:cooper_block"
+			}]
+		}
+	]
 }

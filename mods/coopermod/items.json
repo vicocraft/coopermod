@@ -1,15 +1,11 @@
 {
-  "items": [
-    {
-      "type": "item:simple",
-      "entries": [
-        {
-          "id": "cooper_ingot",
-		  "material": "rock",
-		  "model": "coopermod:cooper_ingot",
-          "creativeTab": "materials"
-        }
-      ]
-    }
-  ]
+	"items": [{
+		"type": "item:simple",
+		"entries": [{
+			"id": "cooper_ingot",
+			"model": "coopermod:cooper_ingot",
+			"creativeTab": "misc",
+			"maxStack": 64
+		}]
+	}]
 }
