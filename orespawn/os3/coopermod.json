@@ -1,21 +1,30 @@
 {
-  "version": "1.1",
-  "dimensions": [
-    {
-      "ores": [
+  "version": "2.0",
+  "spawns": {
+    "cooper_ore": {
+      "retrogen": true,
+      "enabled": true,
+      "feature": "default",
+      "replaces": "default",
+      "dimensions": [
+        0
+      ],
+      "biomes": {
+        "excludes": []
+      },
+      "parameters": {
+        "size": 6,
+        "variation": 3,
+        "frequency": 16,
+        "minHeight": 32,
+        "maxHeight": 96
+      },
+      "blocks": [
         {
-          "block": "coopermod:cooper_ore",
-          "parameters": {
-            "size": 8,
-            "variation": 4,
-            "frequency": 20.0,
-            "minHeight": 32,
-            "maxHeight": 96
-          },
-          "feature": "default",
-          "replace_block": "default"
+          "name": "coopermod:cooper_ore",
+          "chance": 100
         }
       ]
     }
-  ]
+  }
 }
